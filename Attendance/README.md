@@ -22,11 +22,3 @@ This is a mobile application developed to simplify **attendance tracking and man
 - **Authentication**: Firebase Auth
 - **Database**: Firebase Firestore
 
----
-
-## 🔗 Connect with Me
-If you have any suggestions or feedback, feel free to connect!
-- 📧 Email: ashutosh.2201062cs@iiitbh.ac.in
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashutosh-mishra-46a082238/)
-
----
